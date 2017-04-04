@@ -47,6 +47,7 @@ public class HelloWorld {
 		int testobj = 59;
 		ergebnis = istPrimzahl(testobj);
 		System.out.println(ergebnis);
+		System.out.println("Test 1 !! Werden die änderungen in github gespeichert??");
 	}
 
 }
